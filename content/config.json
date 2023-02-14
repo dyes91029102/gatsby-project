@@ -1,0 +1,47 @@
+{
+  "title": "Blog by Brook",
+  "url": "https://dyes91029102.github.io",
+  "subtitle": "我是一位前端軟體工程師，喜歡協作開發網站及新奇知識所帶來的樂趣。\r\n逐步紀錄自己學習及調研的相關資訊，過程中如有錯誤觀念，請多多指教。",
+  "copyright": "Copyright © 2023 Brook Chen",
+  "googleAnalyticsId": "",
+  "disqusShortname": "",
+  "postsLimit": 4,
+  "pathPrefix": "/",
+  "menu": [
+    {
+      "label": "文章",
+      "path": "/"
+    },
+    {
+      "label": "專案",
+      "path": "/pages/projects"
+    },
+    {
+      "label": "關於",
+      "path": "/pages/about"
+    }
+  ],
+  "author": {
+    "name": "Brook Chen",
+    "photo": "/photo.jpg",
+    "bio": "我是一位前端軟體工程師，喜歡協作開發網站及新奇知識所帶來的樂趣。\r\n逐步紀錄自己學習及調研的相關資訊，過程中如有錯誤觀念，請多多指教。",
+    "contacts": {
+      "rss": "",
+      "email": "",
+      "github": "dyes91029102",
+      "facebook": "#",
+      "telegram": "#",
+      "twitter": "",
+      "linkedin": "#",
+      "instagram": "#",
+      "mastodon": "",
+      "line": "",
+      "weibo": "",
+      "gitlab": "",
+      "medium": "",
+      "youtube": "",
+      "codepen": "",
+      "soundcloud": ""
+    }
+  }
+}
